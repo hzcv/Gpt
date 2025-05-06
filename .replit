@@ -1,4 +1,5 @@
-run = "npm start"
-language = "nodejs"
-entrypoint = "index.js"
+language = "python"
+run = "python bot.py"
+entrypoint = "bot.py"
+
 
